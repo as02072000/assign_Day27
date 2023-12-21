@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.stackroute.transactionsmanagement.test.BankAccountServiceTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.945 s - in com.stackroute.transactionsmanagement.test.BankAccountServiceTest
